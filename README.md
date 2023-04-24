@@ -8,3 +8,11 @@
 - python manage.py startapp [uygulama ismi] # web sitesine eklemek için uygulama oluşturmak
 - python manage.py makemigrations musteri # ilgili uygulamanın vertibanı değişikliklerini toplar
 - python manage.py migrate # toplanan değişiklikler veri tabanına yansıtılır
+
+Proje Dağılımı
+# Emlak Web Sitesi - Durmuş
+# Kişisel Resim Deposu - Emre
+# Müşteri ile görüştüm - 
+# Küçük Market Stok Takip - Demhat
+
+
